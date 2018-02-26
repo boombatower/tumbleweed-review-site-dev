@@ -5,8 +5,8 @@ description: |
 author: Jimmy Berry
 email: jimmy@boombatower.com
 
-url: http://review.tumbleweed.boombatower.com
-baseurl: ""
+url: https://boombatower.github.io/tumbleweed-review-site-dev
+baseurl: "/tumbleweed-review-site-dev"
 
 theme: minima
 minima:
